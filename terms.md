@@ -20,4 +20,4 @@ Changes to Terms
 These Terms may be updated at any time. Continued use of AfterLife means you accept the new Terms.
 
 Contact
-For questions, contact the developer at: [@magehex].
+For questions or data requests, contact the developer on discord: [@magehex] < (username)
